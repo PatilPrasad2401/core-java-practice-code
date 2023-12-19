@@ -14,10 +14,14 @@
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Alphabate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/AscciValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Check_Armstrong.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Count_posNegZero.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/EvenNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/FactorialofNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/IsArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/IsPerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/LargestAndSmallestNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/NaturalNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/OctalToBinary.java" afterDir="false" />
@@ -25,6 +29,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/OctalToHexadecimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/OddNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/OnceComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Perfect_number.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/PowerOfAnotherNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/PrimeNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/ReverseAlphabate.java" afterDir="false" />
@@ -78,9 +83,9 @@
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ficonacci">
-    <configuration name="Ficonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Ficonacci" />
+  <component name="RunManager" selected="Application.Check_Armstrong">
+    <configuration name="Check_Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Check_Armstrong" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.OctalToBinary" />
+    <configuration name="IsArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.IsArmstrongNumber" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.OctalToDecimal" />
+    <configuration name="IsPerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.IsPerfectNumber" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.OctalToHexadecimal" />
+    <configuration name="IsStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.IsStrongNumber" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnceComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.OnceComplement" />
+    <configuration name="Perfect_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Perfect_number" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ficonacci" />
-        <item itemvalue="Application.OnceComplement" />
-        <item itemvalue="Application.OctalToHexadecimal" />
-        <item itemvalue="Application.OctalToDecimal" />
-        <item itemvalue="Application.OctalToBinary" />
+        <item itemvalue="Application.Check_Armstrong" />
+        <item itemvalue="Application.IsArmstrongNumber" />
+        <item itemvalue="Application.Perfect_number" />
+        <item itemvalue="Application.IsPerfectNumber" />
+        <item itemvalue="Application.IsStrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +177,66 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/Ficonacci.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prasad/practice/IsStrongNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
