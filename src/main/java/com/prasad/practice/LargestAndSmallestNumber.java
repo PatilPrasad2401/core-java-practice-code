@@ -2,30 +2,29 @@ package com.prasad.practice;
 
 import java.util.Scanner;
 
-public class Count_posNegZero {
+public class LargestAndSmallestNumber {
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);
 
-        int c_pos=0,c_neg=0,c_zero=0;
+        int max=Integer.MIN_VALUE;
+        int min=Integer.MAX_VALUE;
         char choice;
         do{
             System.out.println("Enter values :");
             int input=sc.nextInt();
-            if (input>0) {
-                c_pos++;
+            if (input > max) {
+                max=input;
             }
-            else if (input<0) {
-                c_neg++;
+            if (input < min) {
+                min = input;
             }
-            else {
-                c_zero++;
-            }
+
             System.out.println("Do you want to continue y/n?");
             choice = sc.next().charAt(0);
         }while (choice=='y'|| choice=='Y');
-        System.out.println("Positive number count is :"+c_pos);
-        System.out.println("Negative number count is :"+c_neg);
-        System.out.println("Zero number count is :"+c_zero);
+        System.out.println("Maximum number is :"+max);
+        System.out.println("Minimum number is :"+min);
+
 
 
     }
