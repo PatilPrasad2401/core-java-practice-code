@@ -5,7 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e0e1c8-a8b2-4042-9dee-9d22b226861e" name="Changes" comment="all code update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/NameNotProvidedExeception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/customExecaption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exceptionwiththrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Equal_Sum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Find_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Find_duplicateCharactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Perfect_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/ReverseString_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Linklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Linklist.java" afterDir="false" />
     </list>
@@ -17,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,7 +60,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,16 +86,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prasad.practice.exception" />
+      <recent name="com.prasad.practice.homework" />
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Duplicate">
-    <configuration name="Find_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.homework.Find_Duplicate" />
+  <component name="RunManager" selected="Application.Exception21">
+    <configuration name="Exception17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception17" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.homework.*" />
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindroameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.demo.PalindroameNumber" />
+    <configuration name="Exception18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception18" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.demo.*" />
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.demo.PalindromeString" />
+    <configuration name="Exception19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception19" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.demo.*" />
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.homework.Reverse_Array" />
+    <configuration name="Exception20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception20" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.homework.*" />
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Linklist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.homework.Reverse_Linklist" />
+    <configuration name="Exception21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception21" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.homework.*" />
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_Duplicate" />
-        <item itemvalue="Application.Reverse_Linklist" />
-        <item itemvalue="Application.Reverse_Array" />
-        <item itemvalue="Application.PalindromeString" />
-        <item itemvalue="Application.PalindroameNumber" />
+        <item itemvalue="Application.Exception21" />
+        <item itemvalue="Application.Exception20" />
+        <item itemvalue="Application.Exception19" />
+        <item itemvalue="Application.Exception18" />
+        <item itemvalue="Application.Exception17" />
       </list>
     </recent_temporary>
   </component>
