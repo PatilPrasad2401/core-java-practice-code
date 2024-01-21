@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e0e1c8-a8b2-4042-9dee-9d22b226861e" name="Changes" comment="all code update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/NameNotProvidedExeception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/customExecaption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exception7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/exceptionwiththrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Equal_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Find_Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Find_duplicateCharactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Perfect_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/ReverseString_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/inheriance/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Linklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/homework/Reverse_Linklist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -78,8 +47,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_setup/codeBase/core-java/core-java-practice-code&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/_setup/code_base/core_java/practice-code-core-java/src/main/java/org/example/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
@@ -91,26 +61,13 @@
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception21">
-    <configuration name="Exception17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception17" />
+  <component name="RunManager" selected="Application.Cat">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.inheriance.Cat" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exception18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception18" />
-      <module name="practice-code-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="PATTERN" value="com.prasad.practice.inheriance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exception22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception22" />
+      <module name="practice-code-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.Exception22" />
         <item itemvalue="Application.Exception21" />
         <item itemvalue="Application.Exception20" />
         <item itemvalue="Application.Exception19" />
-        <item itemvalue="Application.Exception18" />
-        <item itemvalue="Application.Exception17" />
       </list>
     </recent_temporary>
   </component>
