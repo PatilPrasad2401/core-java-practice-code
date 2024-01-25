@@ -1,9 +1,8 @@
 package com.prasad.practice.Collection.linkList;
 
-import javax.swing.text.Position;
 import java.util.LinkedList;
 
-public class CreateLinkList {
+public class GetLinkList {
     public static void main(String[] args) {
         LinkedList<String> cities=new LinkedList<>();
         cities.add("Pune");
@@ -23,5 +22,18 @@ public class CreateLinkList {
 //        add city at last position
         cities.addLast("Malkapur");
         System.out.println("After adding Malkapur city at last position:"+cities+"\n");
+
+//        getting element at first position using getFirst()method in linkList
+        String firstElement=cities.getFirst();
+        System.out.println("get first element in to the linkList::"+ firstElement+"\n");
+
+//        getting element at last position using getLast()method in linkList
+        String lastElement=cities.getLast();
+        String element=cities.get(4);
+        System.out.println("get last element in to the linkList::"+ element+"\n");
+//        getting element at any  position using foreach loops in linkList
+        for (String str:cities) {
+            System.out.println(str);
+        }
     }
 }

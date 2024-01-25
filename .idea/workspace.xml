@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e0e1c8-a8b2-4042-9dee-9d22b226861e" name="Changes" comment="all code update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/inheriance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/hasset/HasSetDEmo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/hasset/ItrateHasMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/GetLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/LinkListSearchItratorationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/RemoveElementinkList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/exception/Exception22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/CreateLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/CreateLinkList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -56,18 +60,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prasad.practice.Collection.linkList" />
       <recent name="com.prasad.practice.exception" />
       <recent name="com.prasad.practice.homework" />
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cat">
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.inheriance.Cat" />
+  <component name="RunManager" selected="Application.LinkListSearchItratorationExample">
+    <configuration name="GetLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.linkList.GetLinkList" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.inheriance.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.linkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception19" />
+    <configuration name="HasSetDEmo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.hasset.HasSetDEmo" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.hasset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception20" />
+    <configuration name="ItrateHasMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.hasset.ItrateHasMapExample" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.hasset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception21" />
+    <configuration name="LinkListSearchItratorationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.linkList.LinkListSearchItratorationExample" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.linkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.exception.Exception22" />
+    <configuration name="RemoveElementinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.linkList.RemoveElementinkList" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.exception.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.linkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.Exception22" />
-        <item itemvalue="Application.Exception21" />
-        <item itemvalue="Application.Exception20" />
-        <item itemvalue="Application.Exception19" />
+        <item itemvalue="Application.LinkListSearchItratorationExample" />
+        <item itemvalue="Application.ItrateHasMapExample" />
+        <item itemvalue="Application.HasSetDEmo" />
+        <item itemvalue="Application.RemoveElementinkList" />
+        <item itemvalue="Application.GetLinkList" />
       </list>
     </recent_temporary>
   </component>
