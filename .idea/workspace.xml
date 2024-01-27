@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e0e1c8-a8b2-4042-9dee-9d22b226861e" name="Changes" comment="all code update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/hasset/HasSetDEmo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/hasset/ItrateHasMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/GetLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/LinkListSearchItratorationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/RemoveElementinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/practice/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/practice/CollectionsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/CreateLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/linkList/CreateLinkList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +62,26 @@
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkListSearchItratorationExample">
-    <configuration name="GetLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.linkList.GetLinkList" />
+  <component name="RunManager" selected="Application.CollectionsDemo">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.practice.ArrayListDemo" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prasad.practice.Collection.linkList.*" />
+          <option name="PATTERN" value="com.prasad.practice.Collection.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.practice.CollectionsDemo" />
+      <module name="practice-code-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prasad.practice.Collection.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElementinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.linkList.RemoveElementinkList" />
-      <module name="practice-code-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prasad.practice.Collection.linkList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.LinkListSearchItratorationExample" />
         <item itemvalue="Application.ItrateHasMapExample" />
         <item itemvalue="Application.HasSetDEmo" />
-        <item itemvalue="Application.RemoveElementinkList" />
-        <item itemvalue="Application.GetLinkList" />
       </list>
     </recent_temporary>
   </component>
