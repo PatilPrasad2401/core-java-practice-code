@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e0e1c8-a8b2-4042-9dee-9d22b226861e" name="Changes" comment="all code update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/dateTime/DateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/defaultStaticMethod/DefaultStaticMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/functioninterface/FunctionInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/lambada/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/lambada/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/model/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/model/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/stream/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/stream/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/operational/OperationalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/stream/ListStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/Collection/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prasad/practice/multithreading/lifecycle/ThreadLifeCycleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prasad/practice/multithreading/lifecycle/ThreadLifeCycleDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +65,7 @@
       <recent name="com.prasad.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.Collection.ArrayListDemo" />
-      <module name="practice-code-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prasad.practice.Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OperationalDemo">
     <configuration name="DateTimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prasad.practice.dateTime.DateTimeDemo" />
       <module name="practice-code-core-java" />
@@ -128,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.stream.StreamDemo" />
+    <configuration name="ListStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.stream.ListStream" />
       <module name="practice-code-core-java" />
       <extension name="coverage">
         <pattern>
@@ -141,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperationalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prasad.practice.operational.OperationalDemo" />
+      <module name="practice-code-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prasad.practice.operational.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperationalDemo" />
+        <item itemvalue="Application.ListStream" />
         <item itemvalue="Application.DateTimeDemo" />
         <item itemvalue="Application.DefaultStaticMethodDemo" />
         <item itemvalue="Application.FunctionInterfaceDemo" />
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
